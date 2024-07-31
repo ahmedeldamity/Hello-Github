@@ -1,3 +1,3 @@
 # Hello-Github
 
-This file was modified locally
+this line was modified manually during conflicts resolution 
